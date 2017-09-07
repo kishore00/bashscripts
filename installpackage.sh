@@ -13,4 +13,4 @@ sudo apt-get install $wget -y
 
 sleep 5
 
-sudo  apt-get install $tree -y
+sudo  apt-get install $zip -y
